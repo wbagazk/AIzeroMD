@@ -10,10 +10,6 @@
 
 ---
 
-# AIzeroMD - WhatsApp Bot
-
-A powerful, elegant, and modular WhatsApp bot built with 💖 by WBK.
-
 > ⚠️ **WARNING:** SOURCE CODE INI TIDAK AKAN DIUPDATE KALAU BELUM ADA REPORT ERROR
 
 ## 🚀 Getting Started
@@ -39,12 +35,12 @@ npm start
 
 ---
 
-<footer align="center">
-<a href="https://github.com/wbagazk" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" />
-</a>
-<p>© 2025 WBK • All rights reserved</p>
-</footer>
+<div align="center">
+  <a href="https://github.com/wbagazk" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" />
+  </a>
+  <p>© 2025 WBK • All rights reserved</p>
+</div>
 
 ---
 
