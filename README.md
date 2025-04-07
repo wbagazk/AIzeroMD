@@ -9,9 +9,9 @@
 </p>
 
 ---
-
-> ⚠️ **WARNING:** SOURCE CODE INI TIDAK AKAN DIUPDATE KALAU BELUM ADA REPORT ERROR
-
+<div align="center">
+⚠️ **WARNING:** SOURCE CODE INI TIDAK AKAN DIUPDATE KALAU BELUM ADA REPORT ERROR
+</div>
 ---
 
 ## 🚀 Getting Started
@@ -25,14 +25,16 @@ npm start
 
 ## 📦 Requirements
 
+```
 - Requires username, password, and IP address to connect to this Bot
 - Internet connection
+```
 
 ## 🔐 Security Tips
 
-```diff
+```
 - Never share your session file, username, password, and IP address!
-+ Use environment variables to store secrets!
++ Use safe variables to store secrets!
 ```
 
 ---
