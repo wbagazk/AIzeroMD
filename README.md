@@ -48,7 +48,6 @@ npm start
   </a>
 </div>
 
----
 
 <div align="center">
   <h2>💝 Support 💝</h2>
@@ -57,7 +56,6 @@ npm start
   </a>
 </div>
 
----
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%">
