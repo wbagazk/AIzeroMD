@@ -1,0 +1,71 @@
+{
+  "6285198499298@s.whatsapp.net": {
+    "status_sewa": true,
+    "orderSewa": {
+      "msg": {
+        "key": {
+          "remoteJid": "6285198499298@s.whatsapp.net",
+          "fromMe": true,
+          "id": "FizzxyTheGreat-E3ADC3EC19EE"
+        },
+        "message": {
+          "viewOnceMessage": {
+            "message": {
+              "interactiveMessage": {
+                "header": {
+                  "title": "Silahkan Scan Qris Diatas Ya Kak✨",
+                  "hasMediaAttachment": true,
+                  "productMessage": {
+                    "product": {
+                      "productImage": {
+                        "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f2/m238/AQNIB1cLtKg0juLi_rBZy3YLhZqALxK_-xQd5mPp22TwDrG2M8RhkAqKSEIscVrwBzhLK_6EWIDsjt8WMm3vVQ-UMkUq3EOswej1e2V-8w?ccb=9-4&oh=01_Q5AaIHTuqF8ckQZ8qYmM6ZjEpIulc3YZSx84P6MLZ6F_n6yH&oe=67C97A78&_nc_sid=e6ed6c&mms3=true",
+                        "mimetype": "image/jpeg",
+                        "fileSha256": "abYP95DSioSBhK2YDq0Xal9pD2m0YIVVpkEyKgpQO7g=",
+                        "fileLength": "3223",
+                        "height": 228,
+                        "width": 228,
+                        "mediaKey": "gSSYynJswgrpe1iBvVLpOLC6y4Dsn4oF5B1CI0Wx3zc=",
+                        "fileEncSha256": "VZ5qruoP2KXN1JP4NwEbZ/cGRjpfExnzA3VLqth93bI=",
+                        "directPath": "/o1/v/t62.7118-24/f2/m238/AQNIB1cLtKg0juLi_rBZy3YLhZqALxK_-xQd5mPp22TwDrG2M8RhkAqKSEIscVrwBzhLK_6EWIDsjt8WMm3vVQ-UMkUq3EOswej1e2V-8w?ccb=9-4&oh=01_Q5AaIHTuqF8ckQZ8qYmM6ZjEpIulc3YZSx84P6MLZ6F_n6yH&oe=67C97A78&_nc_sid=e6ed6c",
+                        "mediaKeyTimestamp": "1738676521",
+                        "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAUAA//EACwQAAICAAUCBQMFAQAAAAAAAAECAxEABAUhMRJREyIjQWEGgZEUMlJxocH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8Auapq2cymrvEkyeCKqMFeskgcDn3/ADWBR/UWdmEoSfdh6PogdQv93xwb53HzjfULQjV5Q0aX6bSMyvfQO1Di9jXbAdQU+nKu8XVQQed04r7bAhT8bbXgHwa/nplWP9RGZix8QRgWq0aKAjzA7b/OHaXqGoZjVEjkmWTLjZmCBbbpJ49uO94gAeIrrlqeeS3AKPYAYE23ehwRY7+2KH09mC+vdMk7mYqwYMQRIu5DKRVi/gA7nnAdNfKprLF92Ch0Kg2AFuj3FrfTfziSzZp4cvI8HWGUl2jYrxwdxYG55/kLrbF7V9Lz+Z1DMtFEGglQDYqCxA8vJ73gT6DqUpmKxiEMQ6oSvSRd9Bo3/wA/uhgAmKKFcvBmDnGKlnQwsrkLV9T7ENyRxRs8jFHRI0XXoDCzSIsJVmJqm32/A/37Ey6HriyeVSqFi6dM3T4dqQRsb2vgfnFTQNEzGRmilnQIU6lKiiD7BrHudr+22A//2Q=="
+                      },
+                      "title": "ADDSEWA by WBK",
+                      "description": "*DETAIL PEMBAYARAN*\n\n- *ID Transaksi:* QR-MUXF3MWA\n- *Jumlah:* Rp 12.000\n- *Biaya Admin:* Rp 521\n- *Total Pembayaran:* Rp 12.521\n- *Batas Waktu Pembayaran:* 5 Menit\n\n*Silakan scan QRIS di atas untuk melanjutkan pembayaran.*",
+                      "currencyCode": "IDR",
+                      "priceAmount1000": "12000000",
+                      "retailerId": "100000",
+                      "url": "https://wa.me/6289516174846@s.whatsapp.net",
+                      "productImageCount": 1
+                    },
+                    "businessOwnerJid": "6285198499298@s.whatsapp.net",
+                    "footer": "AIzeroMD by WBK V2.0.0 Official"
+                  }
+                },
+                "body": {
+                  "text": "*DETAIL PEMBAYARAN*\n\n- *ID Transaksi:* QR-MUXF3MWA\n- *Jumlah:* Rp 12.000\n- *Biaya Admin:* Rp 521\n- *Total Pembayaran:* Rp 12.521\n- *Batas Waktu Pembayaran:* 5 Menit\n\n*Silakan scan QRIS di atas untuk melanjutkan pembayaran.*"
+                },
+                "footer": {
+                  "text": "AIzeroMD by WBK V2.0.0 Official"
+                },
+                "shopStorefrontMessage": {
+                  "id": "689739h2dgshG",
+                  "surface": "WA"
+                }
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1738676521",
+        "status": "PENDING"
+      },
+      "chat": "6285198499298@s.whatsapp.net",
+      "idSewa": "QR-MUXF3MWA",
+      "amount": "12521",
+      "exp": 1738679109353,
+      "groupId": "ERUY0kZ5D2N8KewqPt9aRh@g.us",
+      "groupName": "GRUP MENUJU RAMADHAN 🕌",
+      "groupLink": "https://chat.whatsapp.com/ERUY0kZ5D2N8KewqPt9aRh"
+    }
+  }
+}
