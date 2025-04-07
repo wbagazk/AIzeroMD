@@ -41,20 +41,30 @@ npm start
 + Use safe variables to store secrets!
 ```
 
+
+---
+
 <div align="center">
+  <!-- Register Bot Section -->
   <h2>📃 For Register Bot 📃</h2>
   <a href="https://wa.me/" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
+  <p>Click the button to register your bot via WhatsApp!</p>
 </div>
 
 
 <div align="center">
+  <!-- Support Section -->
   <h2>💝 Support 💝</h2>
+  <p>If you like this project, feel free to show your support!</p>
   <a href="https://github.com/wbagazk" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" />
   </a>
+  <p>Star the repo to support the project and help us grow! 🚀</p>
 </div>
+
+---
 
 
 <div align="center">
