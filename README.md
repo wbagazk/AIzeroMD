@@ -46,22 +46,27 @@ npm start
 
 <div align="center">
   <!-- Register Bot Section -->
-  <h2>📃 For Register Bot 📃</h2>
+  <h2>📃 Register Your Bot 📃</h2>
+  <p>Get your AI-powered WhatsApp Bot up and running with ease. Click below to register!</p>
   <a href="https://wa.me/" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
-  <p>Click the button to register your bot via WhatsApp!</p>
+  <p>Click the button to instantly register your bot via WhatsApp and start interacting!</p>
 </div>
 
 
 <div align="center">
-  <!-- Support Section -->
-  <h2>💝 Support 💝</h2>
-  <p>If you like this project, feel free to show your support!</p>
-  <a href="https://github.com/wbagazk" target="_blank">
+  <h2>💝 Show Your Support 💝</h2>
+  <p>If you love the project and want to support it, here's how you can help:</p>
+  <a href="https://github.com/wbagazk/AIzeroMD/stargazers" target="_blank">
+    <img src="https://img.shields.io/github/stars/wbagazk/AIzeroMD?style=for-the-badge&color=ff9900&logo=github&logoColor=white" alt="Star this project" />
+  </a>
+  <p>Star this project on GitHub to show your support and stay updated on the latest releases!</p>
+  <a href="https://github.com/wbagazk/AIzeroMD" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" />
   </a>
-  <p>Star the repo to support the project and help us grow! 🚀</p>
+  
+  <p>Thank you for your support! Let’s make this bot even better together! 🚀</p>
 </div>
 
 ---
