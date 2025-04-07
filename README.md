@@ -10,9 +10,11 @@
 
 
 ---
+
 <div align="center">
 ⚠️ **WARNING:** SOURCE CODE INI TIDAK AKAN DIUPDATE KALAU BELUM ADA REPORT ERROR
 </div>
+
 ---
 
 
@@ -40,7 +42,7 @@ npm start
 ```
 
 <div align="center">
-  <h2>💝 Support</h2>
+  <h2>📃 For Register to Whatsapp 📃</h2>
   <a href="https://wa.me/" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
@@ -49,7 +51,7 @@ npm start
 ---
 
 <div align="center">
-  <h2>💝 Support</h2>
+  <h2>💝 Support 💝</h2>
   <a href="https://github.com/wbagazk" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" />
   </a>
